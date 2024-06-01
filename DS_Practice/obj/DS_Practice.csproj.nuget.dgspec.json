@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DSA\\DS_Practice\\DS_Practice.csproj": {}
+    "D:\\DSA_\\Data-Structures\\DS_Practice\\DS_Practice.csproj": {}
   },
   "projects": {
-    "D:\\DSA\\DS_Practice\\DS_Practice.csproj": {
+    "D:\\DSA_\\Data-Structures\\DS_Practice\\DS_Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DSA\\DS_Practice\\DS_Practice.csproj",
+        "projectUniqueName": "D:\\DSA_\\Data-Structures\\DS_Practice\\DS_Practice.csproj",
         "projectName": "DS_Practice",
-        "projectPath": "D:\\DSA\\DS_Practice\\DS_Practice.csproj",
+        "projectPath": "D:\\DSA_\\Data-Structures\\DS_Practice\\DS_Practice.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\DSA\\DS_Practice\\obj\\",
+        "outputPath": "D:\\DSA_\\Data-Structures\\DS_Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

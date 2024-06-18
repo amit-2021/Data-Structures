@@ -12,3 +12,18 @@ D:\DSA\DS_Practice\obj\Debug\net8.0\refint\DS_Practice.dll
 D:\DSA\DS_Practice\obj\Debug\net8.0\DS_Practice.pdb
 D:\DSA\DS_Practice\obj\Debug\net8.0\DS_Practice.genruntimeconfig.cache
 D:\DSA\DS_Practice\obj\Debug\net8.0\ref\DS_Practice.dll
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\bin\Debug\net8.0\DS_Practice.exe
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\bin\Debug\net8.0\DS_Practice.deps.json
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\bin\Debug\net8.0\DS_Practice.runtimeconfig.json
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\bin\Debug\net8.0\DS_Practice.dll
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\bin\Debug\net8.0\DS_Practice.pdb
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\obj\Debug\net8.0\DS_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\obj\Debug\net8.0\DS_Practice.AssemblyInfoInputs.cache
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\obj\Debug\net8.0\DS_Practice.AssemblyInfo.cs
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\obj\Debug\net8.0\DS_Practice.csproj.CoreCompileInputs.cache
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\obj\Debug\net8.0\DS_Practice.sourcelink.json
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\obj\Debug\net8.0\DS_Practice.dll
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\obj\Debug\net8.0\refint\DS_Practice.dll
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\obj\Debug\net8.0\DS_Practice.pdb
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\obj\Debug\net8.0\DS_Practice.genruntimeconfig.cache
+C:\Acmeminds Projects\project\Test_Projects\Net_Core\Data-Structures\DS_Practice\obj\Debug\net8.0\ref\DS_Practice.dll

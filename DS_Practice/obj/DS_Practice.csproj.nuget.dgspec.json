@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DSA_\\Data-Structures\\DS_Practice\\DS_Practice.csproj": {}
+    "C:\\Acmeminds Projects\\project\\Test_Projects\\Net_Core\\Data-Structures\\DS_Practice\\DS_Practice.csproj": {}
   },
   "projects": {
-    "D:\\DSA_\\Data-Structures\\DS_Practice\\DS_Practice.csproj": {
+    "C:\\Acmeminds Projects\\project\\Test_Projects\\Net_Core\\Data-Structures\\DS_Practice\\DS_Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DSA_\\Data-Structures\\DS_Practice\\DS_Practice.csproj",
+        "projectUniqueName": "C:\\Acmeminds Projects\\project\\Test_Projects\\Net_Core\\Data-Structures\\DS_Practice\\DS_Practice.csproj",
         "projectName": "DS_Practice",
-        "projectPath": "D:\\DSA_\\Data-Structures\\DS_Practice\\DS_Practice.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\DSA_\\Data-Structures\\DS_Practice\\obj\\",
+        "projectPath": "C:\\Acmeminds Projects\\project\\Test_Projects\\Net_Core\\Data-Structures\\DS_Practice\\DS_Practice.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Acmeminds Projects\\project\\Test_Projects\\Net_Core\\Data-Structures\\DS_Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
